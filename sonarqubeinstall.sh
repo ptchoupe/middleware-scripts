@@ -30,5 +30,5 @@ cd /opt/sonarqube-9.3.0.51899/bin/linux-x86-64
 
 ./sonar.sh start
 
-echo "Sonarqube installed and started successfully"
+echo "Sonarqube installed successfully"
 
